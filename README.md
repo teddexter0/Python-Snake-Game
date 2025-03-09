@@ -6,7 +6,7 @@ A basic Python eat-the-food game, written in Python.
 
 ![Python Snake Game - Screenshot 1](https://github.com/teddexter0/Python-Snake-Game/blob/main/python-snake-game.png)
 
-![Python Snake Game- Screenshot 2](https://github.com/teddexter0/Python-Snake-Game/blob/main/Python-Snake-Game(2).png)
+![Python Snake Game - Screenshot 2](https://github.com/teddexter0/Python-Snake-Game/blob/main/Python-Snake-Game(2).png)
 
 ## Demo
 
